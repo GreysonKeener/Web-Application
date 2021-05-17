@@ -14,5 +14,6 @@ The database updates when you add a TV Show, you can look at a full list of all 
 Have Functional Database to store user login info.
 Tidy Up and make it look better.
 Add more functionality.
+Host to Heroku
 
 
